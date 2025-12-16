@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 0ef8509a494907640a18196b58cc6512
+  - enabled: 1
+    path: "Assets/Scenes/Vag\xF3nInicio.unity"
+    guid: c54eac5459cda02469d5b749edc7080f
+  - enabled: 1
+    path: Assets/Scenes/Minijuegos/CombinacionSecreta.unity
+    guid: 7f5409fadae3a42499a825d089e9851d
+  - enabled: 1
+    path: Assets/Scenes/Minijuegos/Llaves.unity
+    guid: 13fbdae2be02a1b47a5036cc125f5088
+  - enabled: 1
+    path: Assets/Scenes/Minijuegos/M_Maletas.unity
+    guid: 3fb06f639014d1d4985978e38ea8ff9b
+  - enabled: 1
+    path: Assets/Scenes/Minijuegos/OrdenarAsientos.unity
+    guid: 1bfffefaa1afc884997b0ce7defb11da
+  - enabled: 1
+    path: Assets/Scenes/Minijuegos/Palanca_Emergencias.unity
+    guid: d54938cdfe745194dbd7c9196fbb2100
+  - enabled: 1
+    path: Assets/Scenes/Minijuegos/RepartirCarrito.unity
+    guid: de1747cec4e6d1d418f49a215d8623ac
+  - enabled: 1
+    path: Assets/Scenes/Minijuegos/SalaDeControl.unity
+    guid: 7b300ff422c0ca642aec546b14868d3e
+  - enabled: 1
+    path: Assets/Scenes/Minijuegos/SimonDice.unity
+    guid: 7791eaa312160f34fbd078f1dbbd092f
+  - enabled: 1
+    path: Assets/Scenes/Minijuegos/UnirCables.unity
+    guid: 4a34b130391c91243bc5f3c7e84b2132
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 45c3bdd776deeb143ad85dc5e187e8d7
+  - enabled: 1
+    path: Assets/Scenes/Vagon 2.unity
+    guid: 4c8d30bafb3b23d49af6354acbe39233
+  - enabled: 1
+    path: Assets/Scenes/Vagon 3.unity
+    guid: b0685b3c37bf7d14e8a880491ddcc736
+  - enabled: 1
+    path: Assets/Scenes/Vagon 4.unity
+    guid: 8f64b397179c9e444a41fe9dda5faed1
+  - enabled: 1
+    path: Assets/Scenes/Vagon 5.unity
+    guid: fad9ba13f96d04a40a4f7af43ba1f70d
+  - enabled: 1
+    path: Assets/Scenes/Vagon 6.unity
+    guid: 67bcaa1808bd26f41a7e796b918b6cac
+  - enabled: 1
+    path: Assets/Scenes/Vagon 7.unity
+    guid: 1c5278425d5bbac4ba0236a21f566bf2
+  - enabled: 1
+    path: Assets/Scenes/Vagon 8.unity
+    guid: af81938ade8542a438020946295cb3c6
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: b74fd7574a8edde4487c114113d05b97
+  m_configObjects: {}
